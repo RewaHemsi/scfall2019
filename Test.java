@@ -17,7 +17,6 @@ public class Test
         Person p= new Person ("Mary", 4);
         System.out.println (p.getName ());
 
-
       System.out.println ("Today is the Open Day!\n");
       System.out.println ("My am Issa Nijmeh\n");
       System.out.println (" wish you Dr a nice day!\n");
@@ -28,18 +27,18 @@ public class Test
       System.out.println ("My am Issa Nijmeh");
       System.out.println (" wish you Dr a nice day!");
       System.out.println(" Dunia Al-khalil ");   
-
       System.out.println ("Hello this is Ahmad Alawnah, my ID is 20170105");
       System.out.println("Greetings from Osama Zakarneh ! ");
 	  System.out.println ("Hello this is Ahmad Alawnah, my ID is 20170105");
 	  System.out.println("Sharif Sharif ");
 	    System.out.println ("Hello this is Ahmad Alawnah, my ID is 20170105");
-
 		system.out.println("aya");
      System.out.println ("Hello i am Adel Minwer , my ID is 20170333");
 	    System.out.println("Joud AlJunaidy and my ID is 20110643" );
 	    System.out.println("Noor Jaradat");
        System.out.println("Rewa Hemsi 20160499");
-
+	    System.out.println("Amr Halawani and my ID:20160692, Have a nice day :)");
+	    System.out.println("bisher nobani");
+            System.out.println("lujain shinnawi ");
     }
 }
