@@ -36,6 +36,7 @@ public class Test
      System.out.println ("Hello i am Adel Minwer , my ID is 20170333");
 	    System.out.println("Joud AlJunaidy and my ID is 20110643" );
 	    System.out.println("Noor Jaradat");
+	    System.out.println("Amr Halawani and my ID:20160692, Have a nice day :)");
 	    System.out.println("bisher nobani");
             System.out.println("lujain shinnawi ");
     }
